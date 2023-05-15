@@ -1,0 +1,12 @@
+# Ignora Archivo con el nombre especificado (solo en este directorio)
+# / -> Solo considera el directorio actual
+# /archivoAIgnorar.py
+
+# + Cualquier archivo con terminación .py sera ignorado
+# + **  -> Da igual donde se encuentre mientras sea un archivo .py
+# + .<ext> -> Cualquier archivo con extensión asignada sera ignorado
+# **.py
+
+# Ignora Archivo con el nombre especificado (En todos los directorios)
+archivoAIgnorar.py
+
